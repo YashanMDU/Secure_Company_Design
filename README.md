@@ -4,17 +4,17 @@ This project demonstrates a comprehensive campus network infrastructure designed
 
 ## Key Features
 
-•	**Hierarchical Design** – Core Layer , Distribution Layer and Access Layer
-•	**ISP Connection** – Dual ISP links
-•	**WLC** – Wireless Lan Controller used to manage and distribute WLANS
-•	**VLAN & inter VLAN Routing** -  For Each Building
-•	**EtherChannel** – Between 2 L3 Switches
-•	**VoIP** – Connectivity between departments
-•	**STP & BPDU Guard** – Spanning tree Features
-•	**Subnetting** – Necessary IP address implementation
-•	**Basic Settings** – Security Implementations(Passwords) , Port Security and ACL
-•	**IP Assignment and Sec** - DHCP & DHCP Snooping
-•	**Routing** - OSPF
+- **Hierarchical Design** – Core Layer, Distribution Layer, and Access Layer
+- **ISP Connection** – Dual ISP links for redundancy
+- **WLC Integration** – Wireless LAN Controller used to manage and distribute WLANs
+- **VLAN & Inter-VLAN Routing** – Implemented for each building
+- **EtherChannel** – Configured between two Layer 3 switches for link aggregation
+- **VoIP** – Voice connectivity established between departments
+- **STP & BPDU Guard** – Spanning Tree Protocol features for loop prevention and port protection
+- **Subnetting** – Efficient IP address planning and implementation
+- **Security Configurations** – Password protection, Port Security, and Access Control Lists (ACLs)
+- **IP Assignment & Security** – DHCP with DHCP Snooping for safe IP allocation
+- **Routing** – Dynamic routing configured using OSPF
 
 
 ## Repository Structure
