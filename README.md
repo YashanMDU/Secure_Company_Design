@@ -6,7 +6,6 @@ This project demonstrates a comprehensive Company network infrastructure designe
 
 <img width="759" alt="Screenshot 2025-06-27 at 1 11 27 PM" src="https://github.com/user-attachments/assets/d3d8d673-663d-47f0-9ec6-2ebb372f9fcb" />
 
-
 ## Key Features
 
 - **Hierarchical Design** – Core Layer, Distribution Layer, and Access Layer
