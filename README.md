@@ -19,8 +19,8 @@ This project demonstrates a comprehensive campus network infrastructure designed
 
 ## Repository Structure
 
-**Readme** ---> Basic Explanation
-**Company_Project.pkt** ----> That you need to run
-**Configuration Files** ----> If you create your own design , Apply and Run
-**Secure Company Network Design.pdf** ----> Full Documentation of the project
+- **Readme** ---> Basic Explanation
+- **Company_Project.pkt** ----> That you need to run
+- **Configuration Files** ----> If you create your own design , Apply and Run
+- **Secure Company Network Design.pdf** ----> Full Documentation of the project
 
