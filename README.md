@@ -1,6 +1,6 @@
 # Secure Company Design
 
-This project demonstrates a comprehensive campus network infrastructure designed and implemented using Cisco Packet Tracer, following a hierarchical architecture that ensures scalability, redundancy, and security for enterprise environments.
+This project demonstrates a comprehensive Company network infrastructure designed and implemented using Cisco Packet Tracer, following a hierarchical architecture that ensures scalability, redundancy, and security for enterprise environments.
 
 ## Key Features
 
